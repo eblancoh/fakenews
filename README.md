@@ -30,5 +30,10 @@ docker run -p 8080:8080 -e "MB_KEY=$MB_KEY" machinebox/fakebox
 python fake.news.detector.py "https://www.sample-url.com"
 ```
 
+## Acknowdledgements
+Following Third-Party repositories were used:
+1. [Machine Box - Machine Learning in a box](https://github.com/machinebox)
+2. [Fake News Detector](https://github.com/fake-news-detector)
+
 ## License
 Do What The F*ck You Want To Public License
